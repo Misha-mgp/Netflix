@@ -103,3 +103,9 @@ header nav a:hover {
 .carrosel-filmes {
   margin-top: 5px;
 }
+
+/*mudanças*/
+button a {
+  text-decoration: none;
+  color: #aaa;
+}
